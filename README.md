@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rupesh Prajapati</h1>
 <h3 align="center">A passionate software developer and learner from India</h3>
 
